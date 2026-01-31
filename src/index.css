@@ -1,6 +1,5 @@
 @import "tailwindcss";
 
-/* 폰트를 깔끔하게 만드는 추가 설정 */
 @theme {
   --font-sans: "Pretendard", "Inter", system-ui, sans-serif;
 }
